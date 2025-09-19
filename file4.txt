@@ -1,1 +1,5 @@
-
+let message = "This is a variable.";
+const PI = 3.14159; // Constant variable
+var oldWay = "This is an older way to declare variables."; // Avoid using 'var' in modern JavaScript
+console.log(message);
+console.log(PI);
